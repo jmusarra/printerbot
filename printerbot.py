@@ -3,3 +3,7 @@
 
 import imaplib
 import keyring
+
+
+# Rackspace IMAP server address: secure.emailsrvr.com
+
